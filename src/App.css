@@ -1,0 +1,57 @@
+.modal.fade.show,
+.modal-backdrop {
+  background: #fff;
+}
+
+.modal-content {
+  border: none;
+  box-shadow: 1px 1px 10px #bbb;
+  border-radius: 0;
+}
+
+.modal-header,
+.modal-body {
+  border: none;
+}
+
+.modal-body {
+  padding: 50px;
+}
+
+.heading {
+  font-weight: 700;
+  letter-spacing: 3px;
+}
+
+.message {
+  margin-top: 30px;
+  font-size: 20px;
+}
+
+.form-control {
+  text-align: center;
+  border-radius: 0;
+  background: #e6ebe7;
+  border: none;
+  margin-top: 20px;
+}
+
+.modal .btn-primary {
+  background: #30302e;
+  border-color: #30302e;
+  border-radius: 0;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.checkbox {
+  margin-top: 30px;
+}
+
+.modal {
+  display: block;
+}
+
+.btn-modal {
+  margin-top: 20px;
+}
